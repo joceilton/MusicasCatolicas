@@ -6,7 +6,7 @@ Switch,
 Link
 } from "react-router-dom"
 
-const Home = () => {
+function Home() {
 return (
 <div> Home </div>
 )
